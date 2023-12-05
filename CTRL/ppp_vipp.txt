@@ -1,0 +1,13 @@
+pannexp1.tif
+pannexp3.tif
+pcovc1.tif
+pcovc2.tif
+pcove1.tif
+pcove2.tif
+pcove3.tif
+pempae1.tif
+pempae2.tif
+pempae3.tif
+pempe1.tif
+pempe2.tif
+pexplanp1.tif

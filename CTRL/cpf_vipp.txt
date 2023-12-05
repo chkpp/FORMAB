@@ -1,0 +1,13 @@
+cannexp1.tif
+cannexp3.tif
+ccovc1.tif
+ccovc2.tif
+ccove1.tif
+ccove2.tif
+ccove3.tif
+cempae1.tif
+cempae2.tif
+cempae3.tif
+cempe1.tif
+cempe2.tif
+cexplanp1.tif

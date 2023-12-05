@@ -1,0 +1,13 @@
+CPF-ANNEX.pdf.p00000001.tif
+CPF-ANNEX.pdf.p00000002.tif
+CPF-CHI.pdf.p00000001.tif
+CPF-CHI.pdf.p00000002.tif
+CPF-ENG.pdf.p00000001.tif
+CPF-ENG.pdf.p00000002.tif
+CPF-ENG.pdf.p00000003.tif
+CPF-Notes-ERA.pdf.p00000001.tif
+CPF-Notes-ERA.pdf.p00000002.tif
+CPF-Notes-ERA.pdf.p00000003.tif
+CPF-Notes-ER.pdf.p00000001.tif
+CPF-Notes-ER.pdf.p00000002.tif
+CPF-Explanatory-Notes.pdf.p00000001.tif

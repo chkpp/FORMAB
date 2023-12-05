@@ -1,0 +1,9 @@
+working_dir=C:\\Users\\PC\\Documents\\VPconvert\\ORSO\\vipp\\imglib\\
+folder1    =PPP-ANNEX.pdf_dir
+folder2    =PPP-Explanatory-Notes.pdf_dir
+folder3    =PPP-Notes-ER.pdf_dir
+folder4    =PPP-Notes-ERA.pdf_dir
+folder5    =PPP-CHI.pdf_dir
+folder6    =PPP-ENG.pdf_dir
+
+
